@@ -16,8 +16,7 @@ class Area51Card extends StatelessWidget {
         title: const Text(
           'Area 51',
           style: TextStyle(
-            fontFamily: 'Dense',
-            fontSize: 21,
+            fontSize: 20,
           ),
           ),
         centerTitle: true,
